@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Venise Ivey 
+#### Junior Java Developer
+![Junior Java Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Venisei1275/Venisei1275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software engineer. However, I'm able to apply these skills with my Data Analyst.
 
-Here are some ideas to get you started:
+Skills: Java 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page building different projects 
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me: Email  
+
+
+
+
+
