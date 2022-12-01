@@ -2,7 +2,7 @@
 #### Junior Java Developer
 ![Junior Java Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm an aspiring software engineer. However, I'm able to apply these skills with my Data Analyst.
+I'm an aspiring software engineer. However, I'm able to learn variouss programs and incoporate with my data analyst skill set. 
 
 Skills: Java 
 
